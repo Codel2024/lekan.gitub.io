@@ -1,0 +1,19 @@
+.order{
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+h4{
+    display: flex;
+    justify-content: space-evenly;
+}
+h6{
+    display: flex;
+    justify-content: space-evenly;
+}
+image{
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 50px;
+}

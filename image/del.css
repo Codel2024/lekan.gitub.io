@@ -1,0 +1,7 @@
+h6{
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+    background-color: red;
+}

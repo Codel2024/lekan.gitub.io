@@ -14,17 +14,16 @@ a{
     text-decoration: none;
 }
 a:hover{
-    color: black;
-    background-color: white;    
+    background-color: transparent;
+    color: red;    
 }
 marquee{
     color: orange;
 }
 .order{
-    color: white;
-    background-color: black;
-    display: flex;
-    justify-content:space-evenly;
+    color: black;
+    display: flex;    
+    justify-content: space-evenly;
 }
 menu{
     display: flex;
@@ -44,8 +43,7 @@ menu{
 }
 .image{
     display: flex;
-    justify-content: space-evenly;
-    border-radius: 50px;
+   justify-content: space-evenly;
 }
 h4{
     display: flex;
@@ -55,3 +53,8 @@ h6{
     display: flex;
     justify-content: space-evenly;
 }
+
+
+
+
+
